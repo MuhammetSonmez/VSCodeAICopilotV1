@@ -12,3 +12,8 @@ The content within the "fix" tag represents a request for fixing an error. The u
 The "fixAll" tag contains the corrected versions of all faulty code in the entire document. By using this tag, a user can request the automatic correction of all errors.
 
 These tags represent instructions from the user to perform specific actions, and they are processed based on where they are defined in the document.
+
+
+## Disclaimer
+
+You may need to obtain permission for the API used; be aware that if any issues arise, you accept full responsibility for using this plugin.
